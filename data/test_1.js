@@ -1,0 +1,1 @@
+var json_test_1 = {"type":"FeatureCollection","name":"test_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","이름":"경일대학교"},"geometry":{"type":"Point","coordinates":[128.802041980708509,35.910353398317262]}}]}
